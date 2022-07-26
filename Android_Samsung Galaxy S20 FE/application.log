@@ -1,0 +1,44 @@
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:04.705 ServerManager:27 - starting appium server
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:06.146 ServerManager:43 - Appium server started
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:06.170 DriverManager:31 - initializing Appium driver
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:06.193 PropertyManager:20 - loading config properties
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:06.194 CapabilitiesManager:19 - getting capabilities
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:06.195 CapabilitiesManager:35 - appUrl is/Users/hagar.abdelsamad/Downloads/Appium Automation/MasterAppiumFramework_BDD-master/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:12.878 DriverManager:43 - Driver is initialized
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:14.903 BasePage:79 - login with invalidUsername
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:16.605 BasePage:79 - password is secret_sauce
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:17.699 BasePage:62 - press login button
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:18.544 BasePage:105 - error text is - Username and password do not match any user in this service.
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:19.490 VideoManager:38 - video path: Android_Samsung Galaxy S20 FE/Videos/Login with invalid user name.mp4
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:20.747 BasePage:79 - login with standard_user
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:22.449 BasePage:79 - password is invalidPassword
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:23.053 BasePage:62 - press login button
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:23.359 BasePage:105 - error text is - Username and password do not match any user in this service.
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:24.281 VideoManager:38 - video path: Android_Samsung Galaxy S20 FE/Videos/Login with invalid password.mp4
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:25.538 BasePage:79 - login with standard_user
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:27.229 BasePage:79 - password is secret_sauce
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:28.326 BasePage:62 - press login button
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:29.676 BasePage:105 - product page title is - PRODUCTS
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:42:30.707 VideoManager:38 - video path: Android_Samsung Galaxy S20 FE/Videos/Login with valid user name and password.mp4
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:21.272 ServerManager:27 - starting appium server
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:22.703 ServerManager:43 - Appium server started
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:22.727 DriverManager:31 - initializing Appium driver
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:22.743 PropertyManager:20 - loading config properties
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:22.745 CapabilitiesManager:19 - getting capabilities
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:22.747 CapabilitiesManager:35 - appUrl is/Users/hagar.abdelsamad/Downloads/Appium Automation/MasterAppiumFramework_BDD-master/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:29.776 DriverManager:43 - Driver is initialized
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:31.753 BasePage:79 - login with invalidUsername
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:33.508 BasePage:79 - password is secret_sauce
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:34.633 BasePage:62 - press login button
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:35.495 BasePage:105 - error text is - Username and password do not match any user in this service.
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:36.445 VideoManager:38 - video path: Android_Samsung Galaxy S20 FE/Videos/Login with invalid user name.mp4
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:37.726 BasePage:79 - login with standard_user
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:39.434 BasePage:79 - password is invalidPassword
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:40.529 BasePage:62 - press login button
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:40.830 BasePage:105 - error text is - Username and password do not match any user in this service.
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:41.795 VideoManager:38 - video path: Android_Samsung Galaxy S20 FE/Videos/Login with invalid password.mp4
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:43.086 BasePage:79 - login with standard_user
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:44.747 BasePage:79 - password is secret_sauce
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:45.849 BasePage:62 - press login button
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:47.232 BasePage:105 - product page title is - PRODUCTS
+[Android_Samsung Galaxy S20 FE INFO ] 2022-07-26 11:43:48.292 VideoManager:38 - video path: Android_Samsung Galaxy S20 FE/Videos/Login with valid user name and password.mp4

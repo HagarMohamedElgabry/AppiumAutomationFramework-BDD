@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test_Suite_Android_RealDevice">
+	<test name="Tests_on_RealDevice_Samsung Galaxy S20 FE">
+		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="RF8NA11YKPM" />
+		<parameter name="deviceName" value="Samsung Galaxy S20 FE" />
+		<parameter name="systemPort" value="10000" />
+		<parameter name="chromeDriverPort" value="11000" />
+		<classes>
+			<class name="com.appium.runners.TestNGRunner_Android_RealDevice" />
+		</classes>
+	</test>
+</suite> 
